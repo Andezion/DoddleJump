@@ -14,6 +14,14 @@ A small single-player game written in C++ using SFML
 I decided to write a small game with moving platforms, animated background and character. For implementation I naturally chose C++ and SFML. A couple of simple correlation functions, a couple of simple move functions, and some generation.
 ---
 ## Gameplay
+This is start screen:
+https://github.com/user-attachments/assets/1f55e511-e4d7-45c4-99c3-f193e261bcc5
+
+This is play process:
+https://github.com/user-attachments/assets/647d02a1-2067-4cb5-bd94-c429f73088b5
+
+This is lose screen:
+https://github.com/user-attachments/assets/6939ca94-703b-4a27-8d37-871d19cc530d
 
 ---
 ## Technologies
