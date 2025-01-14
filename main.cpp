@@ -327,7 +327,8 @@ int main()
 
                 scroll_speed = -100;
                 for_sprites = 0;
-
+                gravity = 800.0f;
+                
                 for (int i = 0; i < 10; i++)
                 {
                     platforms.emplace_back(static_cast<float>(i) * 150.0f, dist(gen), plat_text);
