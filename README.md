@@ -1,4 +1,4 @@
-# Doddle-Jump
+# DoddleJump
 A small single-player game written in C++ using SFML 
 
 ## Table of contents
